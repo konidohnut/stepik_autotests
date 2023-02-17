@@ -1,2 +1,2 @@
-# stepik_autotests
-TestAutomation using Selenium and Python
+# Automation Test using Selenium and Python
+### stepik_autotests
